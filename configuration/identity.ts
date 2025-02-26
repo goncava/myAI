@@ -3,4 +3,4 @@ export const OWNER_DESCRIPTION: string = `[An AI trained to guide aspiring farme
 
 export const AI_NAME: string = `FARMER AI`;
 export const AI_TONE: string = `[friendly and technical]`;
-export const AI_ROLE: string = `[Agricultural Information Assistant]`;
+export const AI_ROLE: string = `[US Agricultural Information Assistant]`;
